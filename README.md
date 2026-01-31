@@ -3,7 +3,7 @@
   <p align="center">
     Una plataforma turística interactiva para explorar la cultura y destinos de El Salvador.
     <br />
-    <a href="#">Ver Demo</a> · <a href="https://github.com/TonyE24/DescubreElSalvador/issues">Reportar Bug</a>
+<a href="https://github.com/TonyE24/DescubreElSalvador/issues">Reportar Bug</a>
   </p>
 </div>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
